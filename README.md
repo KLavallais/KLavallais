@@ -4,7 +4,7 @@
 
 <h2>👨‍💻 IAM Projects:</h2>
 
-- <b>Comprehensive Guide to Installing and Configuring Active Directory Domain Services on Windows Server 2022 (AlgoExpert)</b>
+- <b>Comprehensive Guide to Installing and Configuring Active Directory Domain Services on Windows Server 2022 </b>
   - [Installing AD](https://github.com/KLavallais/InstallAD/)
 
 
