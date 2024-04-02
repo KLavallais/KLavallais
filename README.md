@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kris! <br/><a href="https://github.com/jo">Tech Enthusiast</a>, <a href="https://www.linkedin.com/in/lavallaistech/">Aspiring IT Professional</a>, <a href="https://www.youtube.com/TheLobMob">YouTuber</a>
+<h1>Hi, I'm Kris! <br/><a href="https://github.com/KLavallais">Tech Enthusiast</a>, <a href="https://www.linkedin.com/in/lavallaistech/">Aspiring IT Professional</a>, <a href="https://www.youtube.com/TheLobMob">YouTuber</a>
 
 
 
