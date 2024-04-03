@@ -4,9 +4,11 @@
 
 <h2>👨‍💻 IAM Projects:</h2>
 
-- <b>Comprehensive Guide to Installing and Configuring Active Directory Domain Services on Windows Server 2022 </b>
+- <b>Comprehensive Guide to Installing and Configuring Active Directory Domain Services on Windows Server 2022</b>
   - [Installing AD](https://github.com/KLavallais/InstallAD/)
-
+    
+- <b>Creating an Organizational Unit (OU) in Active Directory on Windows Server</b>
+  - [AD Config](https://https://github.com/KLavallais/ADConfig)
 
 <h2> 🤳 Connect with me:</h2>
 
