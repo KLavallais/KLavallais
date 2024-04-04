@@ -8,10 +8,10 @@
   - [Installing AD](https://github.com/KLavallais/InstallAD/)
     
 - <b>Creating an Organizational Unit (OU) in Active Directory on Windows Server</b>
-  - [AD Config](https://https://github.com/KLavallais/ADConfig)
+  - [AD Config](https://github.com/KLavallais/ADConfig)
     
 - <b>Using a PowerShell script to automate the creation of random user accounts in Active Directory for testing and simulation.</b>
-  - [Automate Random Users](https://https://github.com/KLavallais/AutomateRandomUser)
+  - [Automate Random Users](https:github.com/KLavallais/AutomateRandomUser)
     
 <h2> 🤳 Connect with me:</h2>
 
