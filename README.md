@@ -11,7 +11,7 @@
   - [AD Config](https://github.com/KLavallais/ADConfig)
     
 - <b>Using a PowerShell script to automate the creation of random user accounts in Active Directory for testing and simulation.</b>
-  - [Automate Random Users](https:github.com/KLavallais/AutomateRandomUser)
+  - [Automate Random Users](https://github.com/KLavallais/AutomateRandomUser)
     
 <h2> 🤳 Connect with me:</h2>
 
