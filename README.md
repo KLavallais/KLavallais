@@ -12,6 +12,18 @@
     
 - <b>Using a PowerShell script to automate the creation of random user accounts in Active Directory for testing and simulation.</b>
   - [Automate Random Users](https://github.com/KLavallais/AutomateRandomUser)
+ 
+- <b>Mastering Active Directory & Azure: Permissions, Security Groups, and PowerShell Scripts.</b>
+  - [AD/Azure Video](https://github.com/KLavallais/AzureADVideo)
+
+- <b>Automating Employee Onboarding with Microsoft Forms, Power Automate, and Entra.</b>
+  - [Create Entra User](https://github.com/KLavallais/FormsEntraUser)
+  - 
+- <b>AWS IAM Walkthrough Series: Users and User Groups (Part 1).</b>
+  - [AWS IAM Part 1](https://github.com/KLavallais/AWSIAM1)
+  - 
+- <b>AWS IAM Tutorial Series: Roles and Permissions (Part 2).</b>
+  - [AWS IAM Part 2](https://github.com/KLavallais/AWSIAM2)
     
 <h2> 🤳 Connect with me:</h2>
 
