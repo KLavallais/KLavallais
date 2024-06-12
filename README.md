@@ -18,10 +18,10 @@
 
 - <b>Automating Employee Onboarding with Microsoft Forms, Power Automate, and Entra.</b>
   - [Create Entra User](https://github.com/KLavallais/FormsEntraUser)
-  - 
+    
 - <b>AWS IAM Walkthrough Series: Users and User Groups (Part 1).</b>
   - [AWS IAM Part 1](https://github.com/KLavallais/AWSIAM1)
-  - 
+    
 - <b>AWS IAM Tutorial Series: Roles and Permissions (Part 2).</b>
   - [AWS IAM Part 2](https://github.com/KLavallais/AWSIAM2)
     
