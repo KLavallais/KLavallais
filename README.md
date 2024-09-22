@@ -24,6 +24,9 @@
     
 - <b>AWS IAM Tutorial Series: Roles and Permissions (Part 2).</b>
   - [AWS IAM Part 2](https://github.com/KLavallais/AWSIAM2)
+
+- <b>Creating New Application In Microsoft Azure.</b>
+  - [Setting Up SSO for 15Five](https://github.com/KLavallais/SAMLSSO)
     
 <h2> 🤳 Connect with me:</h2>
 
