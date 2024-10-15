@@ -17,16 +17,25 @@
   - [AD/Azure Video](https://github.com/KLavallais/AzureADVideo)
 
 - <b>Automating Employee Onboarding with Microsoft Forms, Power Automate, and Entra.</b>
-  - [Create Entra User](https://github.com/KLavallais/FormsEntraUser)
+  - [Create Entra User (Video)](https://github.com/KLavallais/FormsEntraUser)
     
 - <b>AWS IAM Walkthrough Series: Users and User Groups (Part 1).</b>
-  - [AWS IAM Part 1](https://github.com/KLavallais/AWSIAM1)
+  - [AWS IAM Part 1 (Video)](https://github.com/KLavallais/AWSIAM1)
     
 - <b>AWS IAM Tutorial Series: Roles and Permissions (Part 2).</b>
-  - [AWS IAM Part 2](https://github.com/KLavallais/AWSIAM2)
+  - [AWS IAM Part 2 (Video)](https://github.com/KLavallais/AWSIAM2)
 
 - <b>Creating New Application In Microsoft Azure.</b>
-  - [Setting Up SSO for 15Five](https://github.com/KLavallais/SAMLSSO)
+  - [Setting Up SSO for 15Five (Video)](https://github.com/KLavallais/SAMLSSO)
+   
+- <b>Installing osTicket on a Virtual Machine.</b>
+  - [osTicket Configuration (Video)](https://github.com/KLavallais/osTicketPostSetup)
+
+- <b>osTicket Post Installation Setup.</b>
+  - [osTicket Configuration](https://github.com/KLavallais/osTicketPostSetup)
+
+- <b>osTicket System Navigation.</b>
+  - [osTicket Working Tickets (Video)](https://github.com/KLavallais/osTicketPostSetup)
     
 <h2> 🤳 Connect with me:</h2>
 
