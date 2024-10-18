@@ -35,7 +35,7 @@
   - [osTicket Configuration](https://github.com/KLavallais/osTicketPostSetup)
 
 - <b>osTicket System Navigation.</b>
-  - [osTicket Working Tickets (Video)](https://github.com/KLavallais/osTicketPostSetup)
+  - [osTicket Working Tickets (Video)](https://github.com/KLavallais/osTicketPostWalkthru)
     
 <h2> 🤳 Connect with me:</h2>
 
