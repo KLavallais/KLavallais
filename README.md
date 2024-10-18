@@ -29,7 +29,7 @@
   - [Setting Up SSO for 15Five (Video)](https://github.com/KLavallais/SAMLSSO)
    
 - <b>Installing osTicket on a Virtual Machine.</b>
-  - [osTicket Configuration (Video)](https://github.com/KLavallais/osTicketPostSetup)
+  - [osTicket Installation (Video)](https://github.com/KLavallais/osTicketInstall)
 
 - <b>osTicket Post Installation Setup.</b>
   - [osTicket Configuration](https://github.com/KLavallais/osTicketPostSetup)
