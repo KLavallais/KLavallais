@@ -28,7 +28,7 @@
 - <b>Creating New Application In Microsoft Azure.</b>
   - [Setting Up SSO for 15Five (Video)](https://github.com/KLavallais/SAMLSSO)
    
-- <b>Installing osTicket on a Virtual Machine.</b>
+- <b>Step-by-step osTicket installation on Windows 10, with screenshots and a video walkthrough.</b>
   - [osTicket Installation (Video)](https://github.com/KLavallais/osTicketInstall)
 
 - <b>osTicket Post Installation Setup.</b>
